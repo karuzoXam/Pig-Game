@@ -1,6 +1,6 @@
-# Projektname
+# jPig Game
 
-Pig Fame
+Pig Game
 
 ## Beschreibung
 
