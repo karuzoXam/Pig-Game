@@ -1,6 +1,4 @@
-# jPig Game
-
-Pig Game
+# Pig Game
 
 ## Beschreibung
 
