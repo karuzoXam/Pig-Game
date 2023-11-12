@@ -8,7 +8,7 @@
 - Der Spieler kann wählen, seine Runde zu beenden, was bedeutet, dass seine aktuelle Punktzahl zu seiner Gesamtpunktzahl hinzugefügt wird. Danach ist es der nächste Spieler an der Reihe.
 - Der erste Spieler, der 100 Punkte oder mehr erreicht, gewinnt das Spiel.
 
-## Zusätzliche Funktionen
+## Funktionen
 
 Das Spiel bietet auch eine Neustart-Funktion, mit der die Spieler das Spiel jederzeit zurücksetzen und von vorne beginnen können.
 
